@@ -15,6 +15,7 @@ It compares the performance between CPU and GPU implementations.
 2. CUDA Toolkit installed
 3. `nvcc` compiler
 4. `g++`
+5. 
 
 ## Execution 
 
